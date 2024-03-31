@@ -1,0 +1,83 @@
+---
+title: Homework Assignment 3
+author: Gamal Almareh
+date: 3/12/2024
+format:
+  html:
+    html-math-method: katex
+    smooth-scroll: true
+    embed-resources: true
+    resource-path: [./assets]
+---
+
+* [LINK to GITHUB](https://github.com/gamalalmareh/CMSC475/tree/main)
+* [LINK to FIGMA SHARE](https://www.figma.com/file/PXUQodNj21PYql1u3O3L1o/HW2?type=design&node-id=0%3A1&mode=design&t=MkFEUXotLzWvBc8I-1)
+
+## Board 1 - Contact Information
+
+<iframe 
+width=600
+height=480
+src="https://editor.p5js.org/almarehgamal/sketches/bobdrvYot"
+data-external="1">
+</iframe>
+
+This is my calling card with my contact information, my major, and graduation date.
+
+
+## Board 2 - Connection
+
+My first theme is *connection*.  Below is my storyboard.
+
+<iframe  
+width=600
+height=480
+src="https://editor.p5js.org/almarehgamal/sketches/BdvZSIiKR" 
+data-external="1">
+</iframe> 
+
+I selected *connection* because I believe Life is all about connections and how far you make it can be helped a lot through connections.
+
+
+## Board 3 - Curiosity
+
+This theme is *curiosity*.
+
+<iframe 
+width=600
+height=480
+src="https://editor.p5js.org/almarehgamal/sketches/c8Rqf-hKS"
+data-external="1">
+</iframe>
+
+I selected *curiosity* because I enjoy exploring into things that I usually dont do and I believe being in those areas where you are uncomfortable can be good for growth.
+
+## Board 4 - Creativity
+
+This theme is *Creativity*.
+
+<iframe 
+width=600
+height=480
+src="https://editor.p5js.org/almarehgamal/sketches/kzZpbSiGU"
+data-external="1">
+</iframe>
+
+I selected *creativity* because creativity is something important to me, without creativity I wouldnt be the person I am today..
+
+## Board 5 - Closing panel
+
+<iframe 
+width=600
+height=480
+src="https://editor.p5js.org/almarehgamal/sketches/ILgp0ps00"
+data-external="1">
+</iframe>
+
+These are all words that I think describe me and my values as a person and how I got there and the things I find important 
+
+I animated the page with the words shifting in and out of the frame.
+
+# Reflection
+
+The animation was very difficult and time consuming but I enjoyed it nonetheless it took me some time to adjust but using p5js wasn't difficult
